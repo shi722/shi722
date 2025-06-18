@@ -5,7 +5,7 @@ hello visitors.. welcome to my github profile 🤘🤘
 
 
 -->
-![](https://leetcard.jacoblin.cool/kartkp?ext=heatmap)
+![](https://leetcard.jacoblin.cool/kartkp?ext=heatmap](https://www.linkedin.com/in/shivanshu-solanki-16292a248/)
 
 
 
